@@ -1,0 +1,38 @@
+{
+  "name": "miningos-wrk-container-antspace",
+  "version": "0.0.1",
+  "description": "MiningOS Worker Container Antspace",
+  "keywords": [
+    "tether"
+  ],
+  "author": "Tether",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetherto/miningos-wrk-container-antspace.git"
+  },
+  "engine": {
+    "node": ">=20.0"
+  },
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "npm run lint && npm run test:unit && npm run test:integration",
+    "test:unit": "NODE_ENV=test brittle tests/unit/*.js",
+    "test:integration": "NODE_ENV=test brittle ./tests/container.test.js",
+    "test:coverage": "brittle --coverage tests/{,**/}*.test.js"
+  },
+  "dependencies": {
+    "async": "3.2.6",
+    "bfx-facs-http": "git+https://github.com/bitfinexcom/bfx-facs-http.git",
+    "miningos-lib-stats": "git+https://github.com/tetherto/miningos-lib-stats.git",
+    "miningos-tpl-wrk-container": "git+https://github.com/tetherto/miningos-tpl-wrk-container.git"
+  },
+  "devDependencies": {
+    "@bitfinex/lib-js-util-promise": "git+https://github.com/bitfinexcom/lib-js-util-promise.git",
+    "brittle": "3.16.3",
+    "fastify": "4.29.1",
+    "standard": "17.1.2",
+    "miningos-mock-control-service": "git+https://github.com/tetherto/miningos-mock-control-service.git"
+  }
+}
