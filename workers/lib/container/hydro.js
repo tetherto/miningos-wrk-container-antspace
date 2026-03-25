@@ -60,11 +60,14 @@ class HydroContainer extends BaseAntspaceContainer {
 
     const { isErrored, errors } = this._prepErrors(res.systemData.data)
 
+    const powerW = res.systemData.data.distribution_box1_power + res.systemData.data.distribution_box2_power
+
     return {
       stats: {
         status: this._getStatus(isErrored, res.systemData.data.circulating_pump),
         errors: isErrored ? errors : undefined,
-        power_w: (res.systemData.data.distribution_box1_power + res.systemData.data.distribution_box2_power),
+        power_w: powerW,
+        power_kw: powerW / 1000,
         distribution_box1_power_w: res.systemData.data.distribution_box1_power,
         distribution_box2_power_w: res.systemData.data.distribution_box2_power,
         alarm_status: res.systemData.data.freezing_alarm,
@@ -72,6 +75,7 @@ class HydroContainer extends BaseAntspaceContainer {
         humidity_percent: res.systemData.data.antbox_internal_humidity,
         container_specific: {
           ...res.systemData.data,
+          cooling_tower_inlet_temp: res.systemData.data.colding_tower_inlet_temp,
           miner_info: res.minerInfo.data
         }
       },

@@ -17,11 +17,12 @@ const getRandomPower = () => {
 
 const getRandomIP = () => [...crypto.randomBytes(4)].join('.')
 
-// Helper function to create fault fields
+// Helper function to create fault fields (always booleans so JSON responses include every key)
 const createFaultFields = (faultNames, errorValue) => {
+  const value = errorValue === true
   const faults = {}
   for (const name of faultNames) {
-    faults[name] = errorValue
+    faults[name] = value
   }
   return faults
 }
