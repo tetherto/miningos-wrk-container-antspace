@@ -1,9 +1,9 @@
 'use strict'
 
-const { getDefaultConf, testExecutor } = require('miningos-tpl-wrk-container/tests/container.test')
+const { getDefaultConf, testExecutor } = require('@tetherto/miningos-tpl-wrk-container/tests/container.test')
 const Container = require('../workers/lib/container/hydro')
 const { promiseSleep: sleep } = require('@bitfinex/lib-js-util-promise')
-const HttpFacility = require('bfx-facs-http')
+const HttpFacility = require('@bitfinex/bfx-facs-http')
 
 let mockServer
 

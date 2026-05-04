@@ -1,7 +1,7 @@
 'use strict'
 
 const { parallelLimit } = require('async')
-const { RUNNING_STATUS } = require('miningos-tpl-wrk-container/workers/lib/constants')
+const { RUNNING_STATUS } = require('@tetherto/miningos-tpl-wrk-container/workers/lib/constants')
 const BaseAntspaceContainer = require('./base')
 
 const errorMap = {

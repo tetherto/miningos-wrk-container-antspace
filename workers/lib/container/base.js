@@ -1,6 +1,6 @@
 'use strict'
 
-const BaseContainer = require('miningos-tpl-wrk-container/workers/lib/base')
+const BaseContainer = require('@tetherto/miningos-tpl-wrk-container/workers/lib/base')
 
 class BaseAntspaceContainer extends BaseContainer {
   constructor ({ client, ...opts }) {

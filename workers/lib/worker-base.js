@@ -1,6 +1,6 @@
 'use strict'
 
-const WrkRack = require('miningos-tpl-wrk-container/workers/rack.container.wrk')
+const WrkRack = require('@tetherto/miningos-tpl-wrk-container/workers/rack.container.wrk')
 const async = require('async')
 
 class WrkContainerRack extends WrkRack {
@@ -8,7 +8,7 @@ class WrkContainerRack extends WrkRack {
     super.init()
 
     this.setInitFacs([
-      ['fac', 'bfx-facs-http', '0', '0', {}, 0]
+      ['fac', '@bitfinex/bfx-facs-http', '0', '0', {}, 0]
     ])
   }
 

@@ -1,7 +1,7 @@
 'use strict'
 
-const libAlerts = require('miningos-tpl-wrk-container/workers/lib/alerts')
-const libUtils = require('miningos-tpl-wrk-container/workers/lib/utils')
+const libAlerts = require('@tetherto/miningos-tpl-wrk-container/workers/lib/alerts')
+const libUtils = require('@tetherto/miningos-tpl-wrk-container/workers/lib/utils')
 
 libAlerts.specs.container = {
   ...libAlerts.specs.container_default,

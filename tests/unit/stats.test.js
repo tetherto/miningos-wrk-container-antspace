@@ -43,8 +43,8 @@ test('stats - container_specific_stats_group filter function', (t) => {
   const filter = stats.specs.container.ops.container_specific_stats_group.filter
 
   // Mock the isOffline function
-  const originalIsOffline = require('miningos-tpl-wrk-container/workers/lib/utils').isOffline
-  require('miningos-tpl-wrk-container/workers/lib/utils').isOffline = () => false
+  const originalIsOffline = require('@tetherto/miningos-tpl-wrk-container/workers/lib/utils').isOffline
+  require('@tetherto/miningos-tpl-wrk-container/workers/lib/utils').isOffline = () => false
 
   const onlineEntry = {
     last: {
@@ -59,7 +59,7 @@ test('stats - container_specific_stats_group filter function', (t) => {
   t.ok(shouldInclude, 'should include online entries')
 
   // Test offline entry
-  require('miningos-tpl-wrk-container/workers/lib/utils').isOffline = () => true
+  require('@tetherto/miningos-tpl-wrk-container/workers/lib/utils').isOffline = () => true
 
   const offlineEntry = {
     last: {
@@ -74,7 +74,7 @@ test('stats - container_specific_stats_group filter function', (t) => {
   t.absent(shouldExclude, 'should exclude offline entries')
 
   // Restore original function
-  require('miningos-tpl-wrk-container/workers/lib/utils').isOffline = originalIsOffline
+  require('@tetherto/miningos-tpl-wrk-container/workers/lib/utils').isOffline = originalIsOffline
 
   t.end()
 })
