@@ -1,0 +1,2062 @@
+{
+  "pduGridLayout": {
+    "container-as-hk3": [
+      {
+        "pdu": "a_a",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_b",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_c",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_d",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_e",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_f",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_g",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_h",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_i",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_j",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_k",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_l",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_m",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_n",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a_o",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_a",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_b",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_c",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_d",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_e",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_f",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_g",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_h",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_i",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_j",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_k",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_l",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_m",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_n",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b_o",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "container-as-immersion": [
+      {
+        "pdu": "d1",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d2",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d3",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d4",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d5",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d6",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "d7",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "9",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b1",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b2",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b3",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b4",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b5",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b6",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "b7",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c1",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c2",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c3",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c4",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c5",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c6",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "c7",
+        "sockets": [
+          {
+            "socket": "1",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a1",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a2",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a3",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a4",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a5",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a6",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "pdu": "a7",
+        "sockets": [
+          {
+            "socket": "9",
+            "enabled": true
+          },
+          {
+            "socket": "8",
+            "enabled": true
+          },
+          {
+            "socket": "7",
+            "enabled": true
+          },
+          {
+            "socket": "6",
+            "enabled": true
+          },
+          {
+            "socket": "5",
+            "enabled": true
+          },
+          {
+            "socket": "4",
+            "enabled": true
+          },
+          {
+            "socket": "3",
+            "enabled": true
+          },
+          {
+            "socket": "2",
+            "enabled": true
+          },
+          {
+            "socket": "1",
+            "enabled": true
+          }
+        ]
+      }
+    ]
+  }
+}
